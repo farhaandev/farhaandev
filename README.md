@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [farhaandev.github.io](https://farhaandev.github.io) (Portfolio coming soon)
+- 🌐 [Portfolio](https://farhaandev.github.io/portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farhaan-malik-1b4022230/)
 - 💌 Email: farhaan.in.2003@gmail.com
 
