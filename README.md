@@ -3,9 +3,10 @@
 
 ---
 
-🌱 I'm currently focused on building full-stack apps using **MERN Stack**.  
-🔭 Exploring **React Native** to build cross-platform **mobile apps**. 
-🎯 Dedicated to crafting **pixel-perfect**, **performant**, and **fully functional applications**.
+## 🚀 What I'm Up To
+- 🌱 Currently focused on building full-stack web applications using **MongoDB, Express, React, Node.js**  
+- 🔭 Exploring **React Native** to build cross-platform **mobile apps**  
+- 🎯 Dedicated to crafting **pixel-perfect, performant, and fully functional applications**
 
 ---
 
