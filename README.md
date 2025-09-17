@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio](https://farhaandev.github.io/portfolio)
+- 🌐 [Portfolio](https://farhaandev.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/farhaan-malik-1b4022230/)
 - 💌 Email: farhaan.in.2003@gmail.com
 
