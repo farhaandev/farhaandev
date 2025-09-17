@@ -5,8 +5,7 @@
 
 ## 🚀 What I'm Up To
 - 🌱 Currently focused on building full-stack web applications using **MongoDB, Express, React, Node.js**  
-- 🔭 Exploring **React Native** to build cross-platform **mobile apps**  
-- 🎯 Dedicated to crafting **pixel-perfect, performant, and fully functional applications**
+- 🎯 Dedicated to crafting **pixel-perfect, performant, and fully functional web applications**
 
 ---
 
@@ -15,7 +14,6 @@
 - ⚛️ **Frontend**: React, Tailwind CSS, Context API, Redux Toolkit  
 - 🛠️ **Backend**: Node.js, Express.js, MongoDB  
 - 🌐 **Tools & Platforms**: Git, GitHub, VS Code, Vercel, Postman, ChatGPT
-- 🚀 **Currently Learning**: TypeScript, React Native
 
 ---
 
