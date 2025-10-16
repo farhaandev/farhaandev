@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhaan Malik</h1>
-<h3 align="center">A passionate Frontend Developer & MERN Stack Explorer</h3>
+<h3 align="center">Frontend Developer | Exploring Data Analytics & Meta Ads</h3>
 
 ---
 
