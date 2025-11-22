@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Farhaan Malik</h1>
-<h3 align="center">Frontend Developer | Exploring Data Analytics & Meta Ads</h3>
+<h3 align="center">Frontend Developer</h3>
 
 ---
 
 ## 🚀 What I'm Up To
-- 🌱 Currently focused on building full-stack web applications using **MongoDB, Express, React, Node.js**  
+- 🌱 Currently focused on building user-experiences & web applications using **React, TypeScript, Next.js & Tailwind CSS**  
 - 🎯 Dedicated to crafting **pixel-perfect, performant, and fully functional web applications**
 
 ---
 
 ### 🛠️ Tech Stack
 - 💻 **Languages**: JavaScript, HTML, CSS  
-- ⚛️ **Frontend**: React, Tailwind CSS, Context API, Redux Toolkit  
-- 🛠️ **Backend**: Node.js, Express.js, MongoDB  
-- 🌐 **Tools & Platforms**: Git, GitHub, VS Code, Vercel, Postman, ChatGPT
+- ⚛️ **Frontend**: React, Tailwind CSS, Next.js, Context API, Redux Toolkit 
+- 🌐 **Tools & Platforms**: Git, GitHub, VS Code, Vercel, Postman, ChatGPT, Cursor
 
 ---
 
