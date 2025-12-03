@@ -1,32 +1,29 @@
-<h1 align="center">Hi 👋, I'm Farhaan Malik</h1>
-<h3 align="center">Frontend Developer</h3>
+# Hi 👋, I'm Farhaan Malik  
+
+**Frontend Developer (React, Next.js, TypeScript)**
 
 ---
 
 ## 🚀 What I'm Up To
-- 🌱 Currently focused on building user-experiences & web applications using **React, TypeScript, Next.js & Tailwind CSS**  
-- 🎯 Dedicated to crafting **pixel-perfect, performant, and fully functional web applications**
+
+- Currently focused on building user-centric, scalable web applications using **React**, **TypeScript**, **Next.js** & **Tailwind CSS**  
+- Dedicated to crafting **high-performance**, **accessible**, and **well-structured** frontend experiences
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 **Languages**: JavaScript, HTML, CSS  
-- ⚛️ **Frontend**: React, Tailwind CSS, Next.js, Context API, Redux Toolkit 
-- 🌐 **Tools & Platforms**: Git, GitHub, VS Code, Vercel, Postman, ChatGPT, Cursor
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+- **Frontend:** React, Next.js, Tailwind CSS, Context API, Redux Toolkit  
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Postman, Cursor, ChatGPT
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhaandev&show_icons=true&theme=tokyonight" alt="Farhaan's GitHub Stats" />
-</p>
+## 📫 Let's Connect
 
----
-
-### 📫 Let's Connect!
-- 🌐 [Portfolio](https://farhaandev.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhaan-malik-1b4022230/)
-- 💌 Email: farhaan.in.2003@gmail.com
+- 🌐 Portfolio: [farhaandev.vercel.app](https://farhaandev.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/farhaanmalik](https://linkedin.com/in/farhaanmalik)  
+- 📧 Email: farhaan.in.2003@gmail.com
 
 ---
 
