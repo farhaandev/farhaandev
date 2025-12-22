@@ -21,7 +21,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [farhaandev.vercel.app](https://farhaandev.vercel.app)  
+- 🌐 Portfolio: [farhaanmalik.vercel.app](https://farhaanmalik.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/farhaanmalik](https://linkedin.com/in/farhaanmalik)  
 - 📧 Email: farhaan.in.2003@gmail.com
 
