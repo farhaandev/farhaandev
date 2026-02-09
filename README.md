@@ -6,9 +6,9 @@
 
 ## About Me
 
-- Currently focused on building user-centric, scalable web applications using **React**, **TypeScript**, **Next.js** & **Tailwind CSS**  
-- Dedicated to crafting **high-performance**, **accessible**, and **well-structured** frontend experiences
 - Building [Sidwerk](https://sidwerk.vercel.app/) - Your personal developer knowledge base.
+- Currently focused on building user-centric, scalable web applications using **React**, **TypeScript**, **Next.js** & **Tailwind CSS**.
+- Dedicated to crafting **high-performance**, **accessible**, and **well-structured** frontend experiences.
 
 ---
 
