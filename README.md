@@ -1,6 +1,6 @@
 # Farhaan Malik  
 
-**Frontend Developer | Performance-Focused, Scalable Web Interfaces**
+**Software Developer | Performance-Focused, Scalable Web Interfaces**
 
 ---
 
