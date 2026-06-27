@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
--   Building **Baspex** --- a cloud-based billing & inventory management platform for SMBs.
+-   Building **Baspex** - a cloud-based billing & inventory management platform for SMBs.
 -   Passionate about building scalable SaaS products and business plications that solve real-world business problems.
--   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase & Tailwind CSS**.
+-   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
 -   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
 
 > *I enjoy building software that solves practical business 
@@ -22,7 +22,10 @@
 
 -   React
 -   Next.js
+-   JavaScript
 -   TypeScript
+-   HTML5
+-   CSS3
 -   Tailwind CSS
 -   Redux Toolkit
 
@@ -51,8 +54,8 @@
 
 ## 🌱 Currently Working On
 
--   🚀 Baspex
--   📚 Learning Backend Architecture & System Design
+-   🚀 Baspex - A cloud-based billing & inventory management platform
+-   📚 Learning Backend Architecture, System Design & AI-Integration
 -   ⚡ Building production-ready SaaS applications
 
 ------------------------------------------------------------------------
@@ -68,6 +71,8 @@ Cloud-based Billing & Inventory Management Platform for modern SMBs.
 Building invoicing, inventory management, customer management,
 reporting, PDF exports, and business automation.
 
+[Live Demo](https://baspex.vercel.app/)
+
 ------------------------------------------------------------------------
 
 ## 🤝 Let's Connect
@@ -77,8 +82,3 @@ reporting, PDF exports, and business automation.
 -   📧 Email: farhaan.in.2003@gmail.com
 
 ------------------------------------------------------------------------
-
-## 📌 Featured Repositories
-
-Explore my pinned repositories below to see my best work, experiments,
-and ongoing projects.
