@@ -21,7 +21,7 @@
 - **Frontend:** React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Redux Toolkit
 - **Backend:** Node.js • Express.js • REST APIs
 - **Database:** PostgreSQL • Supabase • MongoDB (Basic)
-- **Tools & Platforms:** Git • GitHub • VS Code • Vercel • Postman • Chrome DevTools
+- **Tools & Platforms:** Git • GitHub • VS Code & Antigravity • Vercel • Postman • Chrome DevTools
 
 ------------------------------------------------------------------------
 
