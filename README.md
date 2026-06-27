@@ -1,13 +1,13 @@
 # Farhaan Malik
 
-**Software Developer \| Building Modern SaaS & Business Applications**
+**Software Developer \| Building Modern SaaS & Business Systems**
 
 ------------------------------------------------------------------------
 
 ## 🚀 About Me
 
 -   Building **[Baspex](https://baspex.vercel.app/)** - a cloud-based billing & inventory management platform for SMBs.
--   Passionate about building scalable SaaS products and business plications that solve real-world business problems.
+-   Passionate about building scalable SaaS products and business systems that solve real-world business problems.
 -   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
 -   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
 
