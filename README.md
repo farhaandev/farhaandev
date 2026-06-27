@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
--   Building **Baspex** - a cloud-based billing & inventory management platform for SMBs.
+-   Building **[Baspex](https://baspex.vercel.app/)** - a cloud-based billing & inventory management platform for SMBs.
 -   Passionate about building scalable SaaS products and business plications that solve real-world business problems.
 -   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
 -   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
@@ -18,37 +18,10 @@
 
 ## 💻 Tech Stack
 
-### Frontend
-
--   React
--   Next.js
--   JavaScript
--   TypeScript
--   HTML5
--   CSS3
--   Tailwind CSS
--   Redux Toolkit
-
-### Backend
-
--   Node.js
--   Express.js
--   REST APIs
-
-### Database
-
--   PostgreSQL
--   Supabase
--   MongoDB (Basic)
-
-### Tools & Platforms
-
--   Git
--   GitHub
--   VS Code
--   Vercel
--   Postman
--   Chrome DevTools
+- **Frontend:** React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Redux Toolkit
+- **Backend:** Node.js • Express.js • REST APIs
+- **Database:** PostgreSQL • Supabase • MongoDB (Basic)
+- **Tools & Platforms:** Git • GitHub • VS Code • Vercel • Postman • Chrome DevTools
 
 ------------------------------------------------------------------------
 
