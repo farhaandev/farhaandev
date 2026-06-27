@@ -1,32 +1,84 @@
-# Farhaan Malik  
+# Farhaan Malik
 
-**Software Developer | Performance-Focused, Scalable Web Interfaces**
+**Software Developer \| Building Modern SaaS & Business Applications**
 
----
+------------------------------------------------------------------------
 
-## About Me
+## 🚀 About Me
 
-- Building [Sidwerk](https://sidwerk.vercel.app/) - Your personal developer knowledge base.
-- Currently focused on building user-centric, scalable web applications using **React**, **TypeScript**, **Next.js** & **Tailwind CSS**.
-- Dedicated to crafting **high-performance**, **accessible**, and **well-structured** frontend experiences.
+-   Building **Baspex** --- a cloud-based billing & inventory management platform for SMBs.
+-   Passionate about building scalable SaaS products and business plications that solve real-world business problems.
+-   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase & Tailwind CSS**.
+-   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
 
----
+> *I enjoy building software that solves practical business 
+> problems---not just beautiful interfaces.*
 
-## Tech Stack
+------------------------------------------------------------------------
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 
-- **Frontend:** React, Next.js, Tailwind CSS, Context API, Redux Toolkit  
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Postman, Supabase, Firebase
+## 💻 Tech Stack
 
----
+### Frontend
 
-## Let's Connect
+-   React
+-   Next.js
+-   TypeScript
+-   Tailwind CSS
+-   Redux Toolkit
 
-- Portfolio: [farhaanmalik.xyz](https://farhaanmalik.xyz/)  
-- LinkedIn: [linkedin.com/in/farhaanmalik](https://linkedin.com/in/farhaanmalik)  
-- Email: farhaan.in.2003@gmail.com
+### Backend
 
----
+-   Node.js
+-   Express.js
+-   REST APIs
 
- **Pinned Repos:**  
-Feel free to explore my best work below!
+### Database
+
+-   PostgreSQL
+-   Supabase
+-   MongoDB (Basic)
+
+### Tools & Platforms
+
+-   Git
+-   GitHub
+-   VS Code
+-   Vercel
+-   Postman
+-   Chrome DevTools
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Working On
+
+-   🚀 Baspex
+-   📚 Learning Backend Architecture & System Design
+-   ⚡ Building production-ready SaaS applications
+
+------------------------------------------------------------------------
+
+## 🌟 Featured Project
+
+### Baspex
+
+Cloud-based Billing & Inventory Management Platform for modern SMBs.
+
+**Tech Stack:** React • Next.js • TypeScript • PostgreSQL • Supabase
+
+Building invoicing, inventory management, customer management,
+reporting, PDF exports, and business automation.
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+-   🌐 Portfolio: https://farhaanmalik.xyz
+-   💼 LinkedIn: https://linkedin.com/in/farhaanmalik
+-   📧 Email: farhaan.in.2003@gmail.com
+
+------------------------------------------------------------------------
+
+## 📌 Featured Repositories
+
+Explore my pinned repositories below to see my best work, experiments,
+and ongoing projects.
