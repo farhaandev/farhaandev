@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
--   Building **[Baspex](https://baspex.vercel.app/)** - a cloud-based billing & inventory management platform for SMBs.
+-   Building **[Lenodos](https://lenodos.vercel.app/)** - a cloud-based GST Billing & Hotel PMS for Indian SMBs.
 -   Passionate about building scalable SaaS products and business systems that solve real-world business problems.
 -   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
 -   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
@@ -27,24 +27,9 @@
 
 ## 🌱 Currently Working On
 
--   🚀 Baspex - A cloud-based billing & inventory management platform
+-   🚀 Lenodos - A cloud-based GST Billing & Hotel PMS for Indian SMBs
 -   📚 Learning Backend Architecture, System Design & AI-Integration
 -   ⚡ Building production-ready SaaS applications
-
-------------------------------------------------------------------------
-
-## 🌟 Featured Project
-
-### Baspex
-
-Cloud-based Billing & Inventory Management Platform for modern SMBs.
-
-**Tech Stack:** React • Next.js • TypeScript • PostgreSQL • Supabase
-
-Building invoicing, inventory management, customer management,
-reporting, PDF exports, and business automation.
-
-[Live Demo](https://baspex.vercel.app/)
 
 ------------------------------------------------------------------------
 
