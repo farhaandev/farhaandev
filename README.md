@@ -1,6 +1,6 @@
 # Farhaan Malik
 
-**Software Developer \| Building Modern SaaS & Business Systems**
+**Software Developer \| React & Next.js Developer**
 
 ------------------------------------------------------------------------
 
