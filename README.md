@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
--   Building **[Lenodos](https://lenodos.vercel.app/)** - a cloud-based GST Billing & Hotel PMS for Indian SMBs.
+-   Building **[Lenodos](https://lenodos.vercel.app/)** - a business operating system for Retail, Hospitality, CRM, Payroll, HR, and Restaurants etc.
 -   Passionate about building scalable SaaS products and business systems that solve real-world business problems.
 -   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
 -   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
@@ -27,7 +27,7 @@
 
 ## 🌱 Currently Working On
 
--   🚀 Lenodos - A cloud-based GST Billing & Hotel PMS for Indian SMBs
+-   🚀 Lenodos - A cloud-based Business Operating System
 -   📚 Learning Backend Architecture, System Design & AI-Integration
 -   ⚡ Building production-ready SaaS applications
 
