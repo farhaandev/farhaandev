@@ -1,42 +1,42 @@
 # Farhaan Malik
 
-**Software Developer \| React & Next.js Developer**
+**Frontend Engineer | Specialized in Next.js, Complex State, & API Integration**
 
-------------------------------------------------------------------------
+---
 
-## 🚀 About Me
+## 🚀 Technical Profile
 
--   Building **[Lenodos](https://lenodos.vercel.app/)** - a business operating system for Retail, Hospitality, CRM, Payroll, HR, and Restaurants etc.
--   Passionate about building scalable SaaS products and business systems that solve real-world business problems.
--   Currently focused on developing modern applications using **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase**.
--   Dedicated to crafting **high-performance, accessible, and well-structured** web experiences.
+- 🛠️ Engineering **[Lenodos](https://lenodos.vercel.app/)** — a modular, cloud-based business operating ecosystem optimizing relational data streams across retail, hospitality, CRM, and corporate administration architectures.
+- 📐 Focused on building scalable, state-driven user interfaces and data-dense web workspaces that transform complex business logic into performant browser experiences.
+- ⚡ Deep specialization in **React, Next.js, and TypeScript**, with extensive experience managing backend integration layers via **Node.js, Express RESTful APIs, PostgreSQL, and Supabase**.
+- 📈 Dedicated to system performance, maintaining clean code semantic clarity, and optimizing Core Web Vitals.
 
-> *I enjoy building software that solves practical business 
-> problems---not just beautiful interfaces.*
+> *I focus on engineering predictable, high-throughput client-side applications that map seamlessly to real-world business mechanics.*
 
-------------------------------------------------------------------------
+---
 
-## 💻 Tech Stack
+## 💻 Core Technical Capabilities
 
-- **Frontend:** React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Redux Toolkit
-- **Backend:** Node.js • Express.js • REST APIs
-- **Database:** PostgreSQL • Supabase • MongoDB (Basic)
-- **Tools & Platforms:** Git • GitHub • VS Code & Antigravity • Vercel • Postman • Chrome DevTools
+- **Core Frontend & State:** Next.js • React • TypeScript • Zustand • Redux Toolkit • Tailwind CSS
+- **UX Engineering:** Framer Motion • Core Web Vitals Optimization • Micro-interactions
+- **API & Data Integration:** RESTful APIs • Node.js • Express.js 
+- **Database Ecosystems:** PostgreSQL • Supabase • MongoDB
+- **Infrastructure & Velocity:** Git • GitHub • Vercel • Postman • Chrome DevTools • VS Code & Antigravity
 
-------------------------------------------------------------------------
+---
 
-## 🌱 Currently Working On
+## 🌱 Engineering Focus & Active Builds
 
--   🚀 Lenodos - A cloud-based Business Operating System
--   📚 Learning Backend Architecture, System Design & AI-Integration
--   ⚡ Building production-ready SaaS applications
+- 🚀 **Lenodos Core Architecture:** Implementing strict type safety, granular multi-user role authentication, and client-side caching strategies for transactional dashboards.
+- ⚡ **Web Performance Profiling:** Deep-diving into component benchmarking to eliminate redundant rendering loops and minimize layout-shift latency.
+- 🛠️ **System Integration:** Refining custom middleware layouts and state synchronization patterns between client views and relational databases.
 
-------------------------------------------------------------------------
+---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
--   🌐 Portfolio: https://farhaanmalik.xyz
--   💼 LinkedIn: https://linkedin.com/in/farhaanmalik
--   📧 Email: farhaan.in.2003@gmail.com
+- 🌐 **Portfolio Workspace:** [farhaanmalik.xyz](https://farhaanmalik.xyz)
+- 💼 **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+- 📧 **Direct Email:** [farhaan.in.2003@gmail.com](mailto:farhaan.in.2003@gmail.com)
 
-------------------------------------------------------------------------
+---
