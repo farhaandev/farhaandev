@@ -35,8 +35,8 @@
 
 ## 🤝 Connect
 
-- 🌐 **Portfolio Workspace:** [farhaanmalik.xyz](https://farhaanmalik.xyz)
-- 💼 **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+- 🌐 **Portfolio Workspace:** [farhaanmalik.xyz](https://www.farhaanmalik.xyz)
+- 💼 **LinkedIn Profile:** [https://linkedin.com/farhaanmalik](https://linkedin.com/farhaanmalik)
 - 📧 **Direct Email:** [farhaan.in.2003@gmail.com](mailto:farhaan.in.2003@gmail.com)
 
 ---
