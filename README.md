@@ -1,6 +1,6 @@
 # Farhaan Malik
 
-**Frontend Engineer | Specialized in Next.js, Complex State, & API Integration**
+**Frontend Engineer | Specialized in Next.js & React**
 
 ---
 
