@@ -22,6 +22,8 @@
 - **Database & Data:** PostgreSQL • Supabase • SQL
 - **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • VS Code • Antigravity
 
+- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,git,github,vercel)](https://skillicons.dev)
+
 ---
 
 ## 🌱 Current Engineering Focus
