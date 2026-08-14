@@ -26,10 +26,10 @@
 
 ## 🌱 Current Engineering Focus
 
-- **Web Performance Profiling:** Deep-diving into component benchmarking to eliminate redundant rendering loops and minimize layout-shift latency.
-- **System Integration:** Refining custom middleware layouts and state synchronization patterns between client views and relational databases.
-- **SQL & Data Systems:** Strengthening SQL fundamentals and working with relational database design, queries, optimization, and data modeling.
-- **LLM API Integration:** Learning and experimenting with LLM APIs to build AI-powered features and integrate intelligent workflows into modern web applications.
+- **Web Performance Profiling:** Benchmarking components to eliminate redundant renders and reduce layout-shift latency.
+- **System Integration:** Refining middleware architecture and state synchronization between client views and relational databases.
+- **SQL & Data Systems:** Strengthening SQL fundamentals across relational data modeling, querying, and optimization.
+- **LLM API Integration:** Exploring LLM APIs to build AI-powered features and intelligent application workflows.
 
 ---
 
