@@ -1,14 +1,14 @@
 # Farhaan Malik
 
-**Frontend Engineer | Specialized in Next.js & React**
+**Frontend Engineer | React, Next.js & TypeScript**
 
 ---
 
 ## 🚀 Technical Profile
 
-- Focused on building scalable, state-driven interfaces and data-intensive web applications that turn complex business logic into performant browser experiences.
-- Specialized in **React, Next.js, and TypeScript**, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, SQL, and Supabase.
-- Focused on **web performance, clean architecture, semantic clarity, and Core Web Vitals**, while continuously exploring modern **LLM API integrations and AI-powered workflows**.
+- Building scalable, state-driven interfaces and data-intensive web applications that turn complex business logic into performant browser experiences.
+- Specialized in React, Next.js, and TypeScript, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, SQL, and Supabase.
+- Focused on web performance, clean architecture, semantic clarity, and Core Web Vitals, while exploring LLM API integrations and AI-powered workflows.
 
 > *I engineer scalable, high-performance client applications that translate complex business logic into predictable, reliable user experiences.*
 
