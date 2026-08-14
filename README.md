@@ -7,7 +7,7 @@
 ## 🚀 Technical Profile
 
 - Building scalable, state-driven interfaces and data-intensive web applications that turn complex business logic into performant browser experiences.
-- Specialized in React, Next.js, and TypeScript, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, SQL, and Supabase.
+- Specialized in React, Next.js, and TypeScript, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, and Supabase.
 - Focused on web performance, clean architecture, semantic clarity, and Core Web Vitals, while exploring LLM API integrations and AI-powered workflows.
 
 > *I engineer scalable, high-performance client applications that translate complex business logic into predictable, reliable user experiences.*
