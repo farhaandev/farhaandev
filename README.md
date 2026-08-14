@@ -14,15 +14,29 @@
 
 ---
 
-## 💻 Core Technical Capabilities
+## 🛠️ Tech Stack
 
-- **Core Frontend & State:** Next.js • React • TypeScript • Zustand • Redux Toolkit • Tailwind CSS
-- **UX & Performance:** Framer Motion • Core Web Vitals • Web Performance Optimization • Micro-interactions
-- **API & Backend Integration:** REST APIs • Node.js • Postman
-- **Database & Data:** PostgreSQL • Supabase • SQL
-- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • VS Code • Antigravity
+### Core Frontend & State
 
-- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,git,github,vercel)](https://skillicons.dev)
+[![Frontend & State](https://skillicons.dev/icons?i=nextjs,react,ts,js,zustand,redux,tailwind)](https://skillicons.dev)
+
+### UX & Performance
+
+**Framer Motion** • **Core Web Vitals** • **Web Performance Optimization** • **Micro-interactions**
+
+### API & Backend Integration
+
+[![API & Backend](https://skillicons.dev/icons?i=nodejs,postman)](https://skillicons.dev)
+
+**REST APIs**
+
+### Database & Data
+
+[![Database](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
+
+### Development & Infrastructure
+
+[![Development & Infrastructure](https://skillicons.dev/icons?i=git,github,vercel,vscode)](https://skillicons.dev)
 
 ---
 
