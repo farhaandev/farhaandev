@@ -6,21 +6,21 @@
 
 ## 🚀 Technical Profile
 
-- Focused on building scalable, state-driven user interfaces and data-dense web workspaces that transform complex business logic into performant browser experiences.
-- Specialization in **React, Next.js, and TypeScript**, with extensive experience managing backend integration layers via **Node.js, RESTful APIs, PostgreSQL, and Supabase**.
-- Dedicated to system performance, maintaining clean code semantic clarity, and optimizing Core Web Vitals.
+- Focused on building scalable, state-driven interfaces and data-intensive web applications that turn complex business logic into performant browser experiences.
+- Specialized in **React, Next.js, and TypeScript**, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, SQL, and Supabase.
+- Focused on **web performance, clean architecture, semantic clarity, and Core Web Vitals**, while continuously exploring modern **LLM API integrations and AI-powered workflows**.
 
-> *I focus on engineering predictable, high-throughput client-side applications that map seamlessly to real-world business mechanics.*
+> *I engineer scalable, high-performance client applications that translate complex business logic into predictable, reliable user experiences.*
 
 ---
 
 ## 💻 Core Technical Capabilities
 
 - **Core Frontend & State:** Next.js • React • TypeScript • Zustand • Redux Toolkit • Tailwind CSS
-- **UX Engineering:** Framer Motion • Core Web Vitals Optimization • Micro-interactions
-- **API & Data Integration:** RESTful APIs • Node.js 
-- **Database Ecosystems:** PostgreSQL • Supabase
-- **Infrastructure & Velocity:** Git • GitHub • Vercel • Postman • Chrome DevTools • VS Code & Antigravity
+- **UX & Performance:** Framer Motion • Core Web Vitals • Web Performance Optimization • Micro-interactions
+- **API & Backend Integration:** REST APIs • Node.js • Postman
+- **Database & Data:** PostgreSQL • Supabase • SQL
+- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • VS Code • Antigravity
 
 ---
 
