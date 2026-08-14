@@ -6,7 +6,6 @@
 
 ## 🚀 Technical Profile
 
-- Building **[Lenodos](https://lenodos.vercel.app/)** - a modular, cloud-based business operating ecosystem optimizing relational data streams across retail, hospitality, CRM, and corporate administration architectures.
 - Focused on building scalable, state-driven user interfaces and data-dense web workspaces that transform complex business logic into performant browser experiences.
 - Specialization in **React, Next.js, and TypeScript**, with extensive experience managing backend integration layers via **Node.js, RESTful APIs, PostgreSQL, and Supabase**.
 - Dedicated to system performance, maintaining clean code semantic clarity, and optimizing Core Web Vitals.
@@ -25,11 +24,12 @@
 
 ---
 
-## 🌱 Engineering Focus & Active Builds
+## 🌱 Current Engineering Focus
 
-- **Lenodos Core Architecture:** Implementing strict type safety, granular multi-user role authentication, and client-side caching strategies for transactional dashboards.
 - **Web Performance Profiling:** Deep-diving into component benchmarking to eliminate redundant rendering loops and minimize layout-shift latency.
 - **System Integration:** Refining custom middleware layouts and state synchronization patterns between client views and relational databases.
+- **SQL & Data Systems:** Strengthening SQL fundamentals and working with relational database design, queries, optimization, and data modeling.
+- **LLM API Integration:** Learning and experimenting with LLM APIs to build AI-powered features and integrate intelligent workflows into modern web applications.
 
 ---
 
