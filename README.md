@@ -18,7 +18,7 @@
 
 ### Core Frontend & State
 
-[![Frontend & State](https://skillicons.dev/icons?i=nextjs,react,ts,js,zustand,redux,tailwind)](https://skillicons.dev)
+[![Frontend & State](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind)](https://skillicons.dev)
 
 ### UX & Performance
 
