@@ -16,27 +16,11 @@
 
 ## 🛠️ Tech Stack
 
-### Core Frontend & State
-
-[![Frontend & State](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind)](https://skillicons.dev)
-
-### UX & Performance
-
-**Framer Motion** • **Core Web Vitals** • **Web Performance Optimization** • **Micro-interactions**
-
-### API & Backend Integration
-
-[![API & Backend](https://skillicons.dev/icons?i=nodejs,postman)](https://skillicons.dev)
-
-**REST APIs**
-
-### Database & Data
-
-[![Database](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
-
-### Development & Infrastructure
-
-[![Development & Infrastructure](https://skillicons.dev/icons?i=git,github,vercel,vscode)](https://skillicons.dev)
+- **Core Frontend & State:** Next.js • React • TypeScript • Zustand • Redux Toolkit • Tailwind CSS
+- **UX & Performance:** Framer Motion • Core Web Vitals • Web Performance Optimization • Micro-interactions
+- **API & Backend Integration:** REST APIs • Node.js • Postman
+- **Database & Data:** PostgreSQL • Supabase
+- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • VS Code • Antigravity & Cursor
 
 ---
 
