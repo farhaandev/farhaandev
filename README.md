@@ -6,7 +6,7 @@
 
 ## 🚀 Technical Profile
 - I build web applications, SaaS products, and user-focused interfaces using React, Next.js, TypeScript, and Node.js.
-- My focus areas include frontend engineering, UI/UX, web performance, scalable architecture, APIs, backend integration, and databases.
+- My focus areas include frontend engineering, UI/UX, web performance, scalable architecture, APIs, & backend integration.
 - I'm also expanding into cross-platform mobile development with React Native.
 - I use AI-powered tools to accelerate development and explore practical AI integrations while building useful software products.
 
