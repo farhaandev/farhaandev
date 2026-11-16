@@ -13,12 +13,11 @@
 ---
 
 ## 🛠️ Tech Stack
-
-- **Core Frontend & State:** Next.js • React • TypeScript • React Native • Zustand • Redux Toolkit • Tailwind CSS
-- **UX & Performance:** Framer Motion • Core Web Vitals • Web Performance Optimization • Micro-interactions
-- **API & Backend Integration:** REST APIs • Node.js • Postman
-- **Database & Data:** PostgreSQL • Supabase
-- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • Expo Go • Antigravity & Cursor
+- **Frontend & Mobile:** Next.js • React • React Native • TypeScript • Tailwind CSS
+- **State & Motion:** Zustand • Redux Toolkit • Framer Motion
+- **Backend & Data:** Node.js • REST APIs • PostgreSQL • Supabase
+- **Tooling & Deployment:** Git • GitHub • Vercel • Expo • Postman • Chrome DevTools
+- **Core Focus:** Web Performance Optimization • Core Web Vitals • Micro-interactions
 
 ---
 
