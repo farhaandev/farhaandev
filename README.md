@@ -1,35 +1,24 @@
 # Farhaan Malik
 
-**Frontend Engineer | React, Next.js & TypeScript**
+**Frontend Engineer | Building Web & Mobile applications**
 
 ---
 
 ## 🚀 Technical Profile
-
-- Building scalable, state-driven interfaces and data-intensive web applications that turn complex business logic into performant browser experiences.
-- Specialized in React, Next.js, and TypeScript, with hands-on experience integrating Node.js, REST APIs, PostgreSQL, and Supabase.
-- Focused on web performance, clean architecture, semantic clarity, and Core Web Vitals, while exploring LLM API integrations and AI-powered workflows.
-
-> *I engineer scalable, high-performance client applications that translate complex business logic into predictable, reliable user experiences.*
+- I build web applications, SaaS products, and user-focused interfaces using React, Next.js, TypeScript, and Node.js.
+- My focus areas include frontend engineering, UI/UX, web performance, scalable architecture, APIs, backend integration, and databases.
+- I'm also expanding into cross-platform mobile development with React Native.
+- I use AI-powered tools to accelerate development and explore practical AI integrations while building useful software products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Core Frontend & State:** Next.js • React • TypeScript • Zustand • Redux Toolkit • Tailwind CSS
+- **Core Frontend & State:** Next.js • React • TypeScript • React Native • Zustand • Redux Toolkit • Tailwind CSS
 - **UX & Performance:** Framer Motion • Core Web Vitals • Web Performance Optimization • Micro-interactions
 - **API & Backend Integration:** REST APIs • Node.js • Postman
 - **Database & Data:** PostgreSQL • Supabase
-- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • VS Code • Antigravity & Cursor
-
----
-
-## 🌱 Current Engineering Focus
-
-- **Web Performance Profiling:** Benchmarking components to eliminate redundant renders and reduce layout-shift latency.
-- **System Integration:** Refining middleware architecture and state synchronization between client views and relational databases.
-- **SQL & Data Systems:** Strengthening SQL fundamentals across relational data modeling, querying, and optimization.
-- **LLM API Integration:** Exploring LLM APIs to build AI-powered features and intelligent application workflows.
+- **Development & Infrastructure:** Git • GitHub • Vercel • Chrome DevTools • Expo Go • Antigravity & Cursor
 
 ---
 
