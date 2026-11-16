@@ -25,6 +25,6 @@
 
 - 🌐 **Portfolio Workspace:** [farhaanmalik.xyz](https://www.farhaanmalik.xyz)
 - 💼 **LinkedIn Profile:** [linkedin.com/in/farhaanmalik](https://www.linkedin.com/in/farhaanmalik/)
-- 📧 **Direct Email:** [farhaan.in.2003@gmail.com](mailto:farhaan.in.2003@gmail.com)
+- 📧 **Direct Email:** [hello.farhaanmalik@gmail.com](mailto:hello.farhaanmalik@gmail.com)
 
 ---
